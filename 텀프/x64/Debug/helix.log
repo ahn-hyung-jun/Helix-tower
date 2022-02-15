@@ -1,0 +1,22 @@
+﻿  loadmap.cpp
+  stage.cpp
+c:\users\유재현\source\repos\helix\helix\stage.cpp(9): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  stage.h
+  tile.cpp
+c:\users\유재현\source\repos\helix\helix\tile.cpp(21): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\유재현\source\repos\helix\helix\tile.cpp(65): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재현\source\repos\helix\helix\tile.cpp(68): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재현\source\repos\helix\helix\tile.cpp(74): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재현\source\repos\helix\helix\tile.cpp(75): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재현\source\repos\helix\helix\tile.cpp(76): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재현\source\repos\helix\helix\tile.cpp(80): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\유재현\source\repos\helix\helix\tile.cpp(78): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재현\source\repos\helix\helix\tile.cpp(79): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\유재현\source\repos\helix\helix\tile.cpp(80): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+c:\users\유재현\source\repos\helix\helix\main.cpp(14): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\users\유재현\source\repos\helix\helix\main.cpp(17): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  tower.cpp
+  코드를 생성하고 있습니다...
+x64\Debug\stage.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+LINK : fatal error LNK1104: 'freeglut.lib' 파일을 열 수 없습니다.

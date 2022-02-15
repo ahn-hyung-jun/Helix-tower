@@ -1,0 +1,2 @@
+﻿  ball.cpp
+D:\과제\2-2\컴그\텀프\텀프\ball.h(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/freeglut.h': No such file or directory
